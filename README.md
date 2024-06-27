@@ -1,7 +1,4 @@
 # SecureBlock
-Blockchain-Based Surveillance Management System
-
-# SecureBlock
 
 SecureBlock is a blockchain-based security system designed to ensure the safety of communities. This project utilizes Kaleido for blockchain deployment and GitHub Actions for continuous integration and deployment.
 
