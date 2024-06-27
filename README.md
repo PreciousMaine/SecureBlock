@@ -6,13 +6,6 @@ SecureBlock is a blockchain-based security system designed to ensure the safety 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Smart Contracts](#smart-contracts)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
